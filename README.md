@@ -1,3 +1,3 @@
 # livetl-writing-app
-README
-Repo for writing app capstone. 
+README: 
+This is a repo for an X-Capstone web app project. 
