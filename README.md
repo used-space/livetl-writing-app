@@ -1,3 +1,5 @@
 # livetl-writing-app
 README: 
-This is a repo for an X-Capstone web app project. 
+This is the repo for an X-Capstone web app project. 
+Python framework / Backend: Flask
+Frontend: Vue.js
